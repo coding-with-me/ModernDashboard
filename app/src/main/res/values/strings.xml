@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ModernDashboard</string>
+    <string name="work">Work</string>
+    <string name="education">Education</string>
+    <string name="startup">Startup</string>
+    <string name="medical">Medical</string>
+    <string name="setting">Settings</string>
+    <string name="travel">Travel</string>
+    <string name="fitness">Fitness</string>
+    <string name="gaming">Gaming</string>
+</resources>
